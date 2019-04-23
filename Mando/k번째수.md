@@ -1,4 +1,4 @@
-```
+```js
 function solution(array, commands) {
     var answer = [];
     
